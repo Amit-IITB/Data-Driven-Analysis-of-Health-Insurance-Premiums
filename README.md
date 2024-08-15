@@ -27,5 +27,3 @@ This project investigates the dynamics of risk underwriting in health insurance 
 ## Project Structure
 - `project.ipynb`: Main project file.
 
-## Author
-Prakhar Shankar
